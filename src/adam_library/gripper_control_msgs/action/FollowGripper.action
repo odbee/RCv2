@@ -1,0 +1,13 @@
+string command
+int32 position
+int32 speed
+int32 force
+
+---
+
+int32 returncode
+int32 returnpos
+int32 objectstatus
+---
+
+int32 currentposition # The current gripper gap size (in meters)

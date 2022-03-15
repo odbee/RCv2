@@ -1,0 +1,24 @@
+{
+    "ros.distro": "foxy",
+    "python.autoComplete.extraPaths": [
+        "/home/odroid/workspaces/ur_ws/install/rtde/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/robocom/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/opencv_port/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/gripper_control/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/gripper_control_msgs/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/ag_crosscomm/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/adam_msgs/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "cmake.configureOnOpen": false,
+    "python.analysis.extraPaths": [
+        "/home/odroid/workspaces/ur_ws/install/rtde/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/robocom/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/opencv_port/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/gripper_control/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/gripper_control_msgs/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/ag_crosscomm/lib/python3.8/site-packages",
+        "/home/odroid/workspaces/ur_ws/install/adam_msgs/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}

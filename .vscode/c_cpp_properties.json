@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/odroid/workspaces/ur_ws/install/gripper_control_msgs/include/**",
+        "/home/odroid/workspaces/ur_ws/install/adam_msgs/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/odroid/workspaces/ur_ws/src/adam_library/moveit_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

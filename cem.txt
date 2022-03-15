@@ -1,0 +1,1763 @@
+[INFO] [1632827925.764276946] [command_execution_manager]: starting command execution manager
+[INFO] [1632827925.798582822] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827929.318637573] [command_execution_manager]: Execution Order Result 0. Execution time: 3.520314
+[INFO] [1632827929.324050948] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827930.303196407] [command_execution_manager]: Execution Order Result 0. Execution time: 0.979229
+[INFO] [1632827930.312142574] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827931.325610324] [command_execution_manager]: Execution Order Result 0. Execution time: 1.013505
+[INFO] [1632827931.330686949] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827932.399862575] [command_execution_manager]: Execution Order Result 0. Execution time: 1.069218
+[INFO] [1632827932.404669741] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827933.404149742] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999440
+[INFO] [1632827933.428138117] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827934.451516367] [command_execution_manager]: Execution Order Result 0. Execution time: 1.037354
+[INFO] [1632827934.462145034] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827938.271807744] [command_execution_manager]: Execution Order Result 0. Execution time: 3.804733
+[INFO] [1632827938.289073994] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827939.191054786] [command_execution_manager]: Execution Order Result 0. Execution time: 0.902753
+[INFO] [1632827939.210982745] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827940.196215578] [command_execution_manager]: Execution Order Result 0. Execution time: 0.990233
+[INFO] [1632827940.213503370] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827941.295271537] [command_execution_manager]: Execution Order Result 0. Execution time: 1.084097
+[INFO] [1632827941.304015037] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827942.285503246] [command_execution_manager]: Execution Order Result 0. Execution time: 0.981604
+[INFO] [1632827942.309516204] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827943.391437913] [command_execution_manager]: Execution Order Result 0. Execution time: 1.081351
+[INFO] [1632827943.407017872] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827948.245134582] [command_execution_manager]: Execution Order Result 0. Execution time: 4.840604
+[INFO] [1632827948.253639416] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827949.303554749] [command_execution_manager]: Execution Order Result 0. Execution time: 1.048176
+[INFO] [1632827949.325636291] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827950.228427458] [command_execution_manager]: Execution Order Result 0. Execution time: 0.908869
+[INFO] [1632827950.256147708] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827951.257710625] [command_execution_manager]: Execution Order Result 0. Execution time: 1.013919
+[INFO] [1632827951.265688292] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827952.199268542] [command_execution_manager]: Execution Order Result 0. Execution time: 0.929502
+[INFO] [1632827952.212258001] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827953.299878251] [command_execution_manager]: Execution Order Result 0. Execution time: 1.091026
+[INFO] [1632827953.308850543] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827957.392366795] [command_execution_manager]: Execution Order Result 0. Execution time: 4.083551
+[INFO] [1632827957.409485003] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827958.534464920] [command_execution_manager]: Execution Order Result 0. Execution time: 1.127618
+[INFO] [1632827958.547410837] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827959.318907796] [command_execution_manager]: Execution Order Result 0. Execution time: 0.774634
+[INFO] [1632827959.323379296] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827960.380930505] [command_execution_manager]: Execution Order Result 0. Execution time: 1.057608
+[INFO] [1632827960.396006963] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827961.178288422] [command_execution_manager]: Execution Order Result 0. Execution time: 0.780367
+[INFO] [1632827961.192527005] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827962.195479589] [command_execution_manager]: Execution Order Result 0. Execution time: 1.000268
+[INFO] [1632827962.213910006] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827965.727103216] [command_execution_manager]: Execution Order Result 0. Execution time: 3.515470
+[INFO] [1632827965.740939841] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827966.782926424] [command_execution_manager]: Execution Order Result 0. Execution time: 1.041995
+[INFO] [1632827966.799509174] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827967.808033050] [command_execution_manager]: Execution Order Result 0. Execution time: 1.011326
+[INFO] [1632827967.817049050] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827968.829828134] [command_execution_manager]: Execution Order Result 0. Execution time: 1.012865
+[INFO] [1632827968.841999467] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827969.851258926] [command_execution_manager]: Execution Order Result 0. Execution time: 1.009313
+[INFO] [1632827969.860832926] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827970.882200926] [command_execution_manager]: Execution Order Result 0. Execution time: 1.021366
+[INFO] [1632827970.895831426] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827974.700518803] [command_execution_manager]: Execution Order Result 0. Execution time: 3.802747
+[INFO] [1632827974.705746928] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827975.812400970] [command_execution_manager]: Execution Order Result 0. Execution time: 1.104966
+[INFO] [1632827975.831021720] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827976.813823887] [command_execution_manager]: Execution Order Result 0. Execution time: 0.984518
+[INFO] [1632827976.826916721] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827977.910148221] [command_execution_manager]: Execution Order Result 0. Execution time: 1.088953
+[INFO] [1632827977.919768305] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827978.902330680] [command_execution_manager]: Execution Order Result 0. Execution time: 0.982579
+[INFO] [1632827978.924625555] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827980.012399514] [command_execution_manager]: Execution Order Result 0. Execution time: 1.093657
+[INFO] [1632827980.029423014] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827984.877073016] [command_execution_manager]: Execution Order Result 0. Execution time: 4.848113
+[INFO] [1632827984.888457725] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827985.927752059] [command_execution_manager]: Execution Order Result 0. Execution time: 1.038148
+[INFO] [1632827985.943077767] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827986.885608684] [command_execution_manager]: Execution Order Result 0. Execution time: 0.942551
+[INFO] [1632827986.902461392] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827987.973412351] [command_execution_manager]: Execution Order Result 0. Execution time: 1.073331
+[INFO] [1632827987.990428643] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827988.887458018] [command_execution_manager]: Execution Order Result 0. Execution time: 0.897172
+[INFO] [1632827988.891889977] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827990.020227394] [command_execution_manager]: Execution Order Result 0. Execution time: 1.128407
+[INFO] [1632827990.039625894] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827994.112232021] [command_execution_manager]: Execution Order Result 0. Execution time: 4.082936
+[INFO] [1632827994.120562396] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827995.104473730] [command_execution_manager]: Execution Order Result 0. Execution time: 0.983935
+[INFO] [1632827995.114604146] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827995.896768313] [command_execution_manager]: Execution Order Result 0. Execution time: 0.782162
+[INFO] [1632827995.908066355] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632827996.950337897] [command_execution_manager]: Execution Order Result 0. Execution time: 1.038671
+[INFO] [1632827996.970555814] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632827997.743368522] [command_execution_manager]: Execution Order Result 0. Execution time: 0.771224
+[INFO] [1632827997.749224814] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632827998.865599856] [command_execution_manager]: Execution Order Result 0. Execution time: 1.112123
+[INFO] [1632827998.887989190] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828002.410348691] [command_execution_manager]: Execution Order Result 0. Execution time: 3.530905
+[INFO] [1632828002.417044275] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828003.502059692] [command_execution_manager]: Execution Order Result 0. Execution time: 1.082909
+[INFO] [1632828003.526414484] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828004.526727276] [command_execution_manager]: Execution Order Result 0. Execution time: 1.008395
+[INFO] [1632828004.544714317] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828005.554610276] [command_execution_manager]: Execution Order Result 0. Execution time: 1.010261
+[INFO] [1632828005.560434860] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828006.567067152] [command_execution_manager]: Execution Order Result 0. Execution time: 1.006714
+[INFO] [1632828006.575721318] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828007.599849652] [command_execution_manager]: Execution Order Result 0. Execution time: 1.024259
+[INFO] [1632828007.624775319] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828011.431997904] [command_execution_manager]: Execution Order Result 0. Execution time: 3.814552
+[INFO] [1632828011.453598154] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828012.532895030] [command_execution_manager]: Execution Order Result 0. Execution time: 1.079686
+[INFO] [1632828012.545941363] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828013.534136155] [command_execution_manager]: Execution Order Result 0. Execution time: 0.988374
+[INFO] [1632828013.549973197] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828014.633648906] [command_execution_manager]: Execution Order Result 0. Execution time: 1.080696
+[INFO] [1632828014.649742197] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828015.645812114] [command_execution_manager]: Execution Order Result 0. Execution time: 0.994837
+[INFO] [1632828015.667035989] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828016.731759990] [command_execution_manager]: Execution Order Result 0. Execution time: 1.070329
+[INFO] [1632828016.751424740] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828021.612382701] [command_execution_manager]: Execution Order Result 0. Execution time: 4.854294
+[INFO] [1632828021.627212534] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828022.539843368] [command_execution_manager]: Execution Order Result 0. Execution time: 0.913122
+[INFO] [1632828022.556735118] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828023.459871285] [command_execution_manager]: Execution Order Result 0. Execution time: 0.908188
+[INFO] [1632828023.467246368] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828024.386253994] [command_execution_manager]: Execution Order Result 0. Execution time: 0.919375
+[INFO] [1632828024.395012994] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828025.301794244] [command_execution_manager]: Execution Order Result 0. Execution time: 0.904996
+[INFO] [1632828025.312525744] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828026.254877869] [command_execution_manager]: Execution Order Result 0. Execution time: 0.942435
+[INFO] [1632828026.272871786] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828030.351113788] [command_execution_manager]: Execution Order Result 0. Execution time: 4.082366
+[INFO] [1632828030.360122788] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828031.468726747] [command_execution_manager]: Execution Order Result 0. Execution time: 1.108676
+[INFO] [1632828031.478978914] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828032.249129247] [command_execution_manager]: Execution Order Result 0. Execution time: 0.772711
+[INFO] [1632828032.255824872] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828033.331592831] [command_execution_manager]: Execution Order Result 0. Execution time: 1.075889
+[INFO] [1632828033.342497539] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=0.5, t=0, r=0)
+
+[INFO] [1632828034.114051415] [command_execution_manager]: Execution Order Result 0. Execution time: 0.771670
+[INFO] [1632828034.123007831] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828035.178424582] [command_execution_manager]: Execution Order Result 0. Execution time: 1.055497
+[INFO] [1632828035.185467582] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828037.830285000] [command_execution_manager]: Execution Order Result 0. Execution time: 2.643212
+[INFO] [1632828037.854633333] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828038.847839792] [command_execution_manager]: Execution Order Result 0. Execution time: 1.002391
+[INFO] [1632828038.854539834] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828039.867771751] [command_execution_manager]: Execution Order Result 0. Execution time: 1.013546
+[INFO] [1632828039.884060751] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828040.896170543] [command_execution_manager]: Execution Order Result 0. Execution time: 1.012245
+[INFO] [1632828040.908513251] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828041.923526002] [command_execution_manager]: Execution Order Result 0. Execution time: 1.013401
+[INFO] [1632828041.947925919] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828043.002477502] [command_execution_manager]: Execution Order Result 0. Execution time: 1.054532
+[INFO] [1632828043.026488919] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828045.793072295] [command_execution_manager]: Execution Order Result 0. Execution time: 2.783983
+[INFO] [1632828045.823537462] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828046.896949379] [command_execution_manager]: Execution Order Result 0. Execution time: 1.086841
+[INFO] [1632828046.902768296] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828047.894364005] [command_execution_manager]: Execution Order Result 0. Execution time: 0.991634
+[INFO] [1632828047.905978671] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828049.003164755] [command_execution_manager]: Execution Order Result 0. Execution time: 1.096629
+[INFO] [1632828049.043361130] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828050.006523506] [command_execution_manager]: Execution Order Result 0. Execution time: 0.983405
+[INFO] [1632828050.018496339] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828051.095811965] [command_execution_manager]: Execution Order Result 0. Execution time: 1.083251
+[INFO] [1632828051.100309756] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828054.394224091] [command_execution_manager]: Execution Order Result 0. Execution time: 3.293913
+[INFO] [1632828054.405959091] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828055.347088217] [command_execution_manager]: Execution Order Result 0. Execution time: 0.939246
+[INFO] [1632828055.366698133] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828056.263071134] [command_execution_manager]: Execution Order Result 0. Execution time: 0.902544
+[INFO] [1632828056.279714800] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828057.257107634] [command_execution_manager]: Execution Order Result 0. Execution time: 0.977477
+[INFO] [1632828057.267580134] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828058.165604926] [command_execution_manager]: Execution Order Result 0. Execution time: 0.898112
+[INFO] [1632828058.185992926] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828059.161026968] [command_execution_manager]: Execution Order Result 0. Execution time: 0.981710
+[INFO] [1632828059.180349802] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828062.085685595] [command_execution_manager]: Execution Order Result 0. Execution time: 2.905463
+[INFO] [1632828062.092860511] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828063.257702095] [command_execution_manager]: Execution Order Result 0. Execution time: 1.164631
+[INFO] [1632828063.270064012] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828064.046785929] [command_execution_manager]: Execution Order Result 0. Execution time: 0.776883
+[INFO] [1632828064.055390471] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828065.120786763] [command_execution_manager]: Execution Order Result 0. Execution time: 1.061584
+[INFO] [1632828065.129169680] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828065.897811138] [command_execution_manager]: Execution Order Result 0. Execution time: 0.768746
+[INFO] [1632828065.909446472] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828066.969124847] [command_execution_manager]: Execution Order Result 0. Execution time: 1.060224
+[INFO] [1632828066.978094889] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828069.611698640] [command_execution_manager]: Execution Order Result 0. Execution time: 2.633726
+[INFO] [1632828069.617188348] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828070.677737849] [command_execution_manager]: Execution Order Result 0. Execution time: 1.060817
+[INFO] [1632828070.688360557] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828071.698077058] [command_execution_manager]: Execution Order Result 0. Execution time: 1.007843
+[INFO] [1632828071.716484349] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828072.728831725] [command_execution_manager]: Execution Order Result 0. Execution time: 1.015618
+[INFO] [1632828072.738666225] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828073.740569600] [command_execution_manager]: Execution Order Result 0. Execution time: 1.002049
+[INFO] [1632828073.746331725] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828074.780151018] [command_execution_manager]: Execution Order Result 0. Execution time: 1.032115
+[INFO] [1632828074.799768601] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828077.572821811] [command_execution_manager]: Execution Order Result 0. Execution time: 2.781345
+[INFO] [1632828077.579211686] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828078.640747228] [command_execution_manager]: Execution Order Result 0. Execution time: 1.060592
+[INFO] [1632828078.648075978] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828079.629485728] [command_execution_manager]: Execution Order Result 0. Execution time: 0.981291
+[INFO] [1632828079.640527770] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828080.687488562] [command_execution_manager]: Execution Order Result 0. Execution time: 1.047340
+[INFO] [1632828080.693603770] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828081.671976021] [command_execution_manager]: Execution Order Result 0. Execution time: 0.978501
+[INFO] [1632828081.679889646] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828082.736194855] [command_execution_manager]: Execution Order Result 0. Execution time: 1.055691
+[INFO] [1632828082.746735605] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828086.037426273] [command_execution_manager]: Execution Order Result 0. Execution time: 3.289191
+[INFO] [1632828086.050159273] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828087.036699232] [command_execution_manager]: Execution Order Result 0. Execution time: 0.992658
+[INFO] [1632828087.046351565] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828087.961623565] [command_execution_manager]: Execution Order Result 0. Execution time: 0.915376
+[INFO] [1632828087.983429691] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828088.899128816] [command_execution_manager]: Execution Order Result 0. Execution time: 0.919415
+[INFO] [1632828088.908892024] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828089.816635358] [command_execution_manager]: Execution Order Result 0. Execution time: 0.906151
+[INFO] [1632828089.830354816] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828090.800289900] [command_execution_manager]: Execution Order Result 0. Execution time: 0.967896
+[INFO] [1632828090.816105900] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828093.717192818] [command_execution_manager]: Execution Order Result 0. Execution time: 2.901171
+[INFO] [1632828093.727365110] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828094.659714860] [command_execution_manager]: Execution Order Result 0. Execution time: 0.930939
+[INFO] [1632828094.670193110] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828095.440159527] [command_execution_manager]: Execution Order Result 0. Execution time: 0.770785
+[INFO] [1632828095.448722527] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828096.557946111] [command_execution_manager]: Execution Order Result 0. Execution time: 1.107589
+[INFO] [1632828096.573248861] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828097.348108820] [command_execution_manager]: Execution Order Result 0. Execution time: 0.776903
+[INFO] [1632828097.364837153] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828098.419887612] [command_execution_manager]: Execution Order Result 0. Execution time: 1.055109
+[INFO] [1632828098.431959279] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828101.069384155] [command_execution_manager]: Execution Order Result 0. Execution time: 2.637492
+[INFO] [1632828101.088145197] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828102.079605072] [command_execution_manager]: Execution Order Result 0. Execution time: 0.990268
+[INFO] [1632828102.101076906] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828103.118109948] [command_execution_manager]: Execution Order Result 0. Execution time: 1.019265
+[INFO] [1632828103.127576489] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828104.131441907] [command_execution_manager]: Execution Order Result 0. Execution time: 1.001814
+[INFO] [1632828104.143960157] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828105.143704990] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999834
+[INFO] [1632828105.153463657] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828106.177139699] [command_execution_manager]: Execution Order Result 0. Execution time: 1.021841
+[INFO] [1632828106.193037158] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828108.955866576] [command_execution_manager]: Execution Order Result 0. Execution time: 2.765155
+[INFO] [1632828108.963512659] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828109.988475451] [command_execution_manager]: Execution Order Result 0. Execution time: 1.023325
+[INFO] [1632828110.006176576] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828110.997774410] [command_execution_manager]: Execution Order Result 0. Execution time: 0.993510
+[INFO] [1632828111.007940993] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828112.037536327] [command_execution_manager]: Execution Order Result 0. Execution time: 1.028547
+[INFO] [1632828112.051609577] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828113.038793869] [command_execution_manager]: Execution Order Result 0. Execution time: 0.988691
+[INFO] [1632828113.065059119] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828114.089334536] [command_execution_manager]: Execution Order Result 0. Execution time: 1.025151
+[INFO] [1632828114.107082453] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828117.392332621] [command_execution_manager]: Execution Order Result 0. Execution time: 3.287149
+[INFO] [1632828117.411613246] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828118.388142663] [command_execution_manager]: Execution Order Result 0. Execution time: 0.975187
+[INFO] [1632828118.406645538] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828119.297269497] [command_execution_manager]: Execution Order Result 0. Execution time: 0.903332
+[INFO] [1632828119.307757622] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828120.239261539] [command_execution_manager]: Execution Order Result 0. Execution time: 0.930098
+[INFO] [1632828120.250653289] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828121.142717123] [command_execution_manager]: Execution Order Result 0. Execution time: 0.892862
+[INFO] [1632828121.151026040] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828122.100517665] [command_execution_manager]: Execution Order Result 0. Execution time: 0.947972
+[INFO] [1632828122.124872123] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828125.021493917] [command_execution_manager]: Execution Order Result 0. Execution time: 2.910145
+[INFO] [1632828125.046825458] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828126.207921042] [command_execution_manager]: Execution Order Result 0. Execution time: 1.169730
+[INFO] [1632828126.224187584] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828126.995450376] [command_execution_manager]: Execution Order Result 0. Execution time: 0.772876
+[INFO] [1632828127.015047709] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828128.099561835] [command_execution_manager]: Execution Order Result 0. Execution time: 1.092293
+[INFO] [1632828128.120934210] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828128.885253002] [command_execution_manager]: Execution Order Result 0. Execution time: 0.767017
+[INFO] [1632828128.906821960] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828130.007150502] [command_execution_manager]: Execution Order Result 0. Execution time: 1.107954
+[INFO] [1632828130.027074752] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828132.654235628] [command_execution_manager]: Execution Order Result 0. Execution time: 2.638792
+[INFO] [1632828132.663309837] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828133.665659212] [command_execution_manager]: Execution Order Result 0. Execution time: 1.002437
+[INFO] [1632828133.671335962] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828134.676090463] [command_execution_manager]: Execution Order Result 0. Execution time: 1.004819
+[INFO] [1632828134.692723296] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828135.779311172] [command_execution_manager]: Execution Order Result 0. Execution time: 1.096028
+[INFO] [1632828135.797291255] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828136.794807964] [command_execution_manager]: Execution Order Result 0. Execution time: 1.004186
+[INFO] [1632828136.811087672] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828137.818287173] [command_execution_manager]: Execution Order Result 0. Execution time: 1.004944
+[INFO] [1632828137.827952923] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828140.606220466] [command_execution_manager]: Execution Order Result 0. Execution time: 2.778434
+[INFO] [1632828140.626938966] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828141.725047424] [command_execution_manager]: Execution Order Result 0. Execution time: 1.099614
+[INFO] [1632828141.745557924] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828142.717041258] [command_execution_manager]: Execution Order Result 0. Execution time: 0.982648
+[INFO] [1632828142.725332133] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828143.772199634] [command_execution_manager]: Execution Order Result 0. Execution time: 1.045656
+[INFO] [1632828143.787413967] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828144.770804093] [command_execution_manager]: Execution Order Result 0. Execution time: 0.986530
+[INFO] [1632828144.797347218] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828145.829250676] [command_execution_manager]: Execution Order Result 0. Execution time: 1.032560
+[INFO] [1632828145.867339760] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828149.148865261] [command_execution_manager]: Execution Order Result 0. Execution time: 3.297817
+[INFO] [1632828149.168122053] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828150.175035220] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999038
+[INFO] [1632828150.187679720] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828151.084322054] [command_execution_manager]: Execution Order Result 0. Execution time: 0.896884
+[INFO] [1632828151.090547262] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828152.217914471] [command_execution_manager]: Execution Order Result 0. Execution time: 1.126241
+[INFO] [1632828152.237342679] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828153.127893638] [command_execution_manager]: Execution Order Result 0. Execution time: 0.898623
+[INFO] [1632828153.137354055] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828154.267015722] [command_execution_manager]: Execution Order Result 0. Execution time: 1.129730
+[INFO] [1632828154.274393055] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828157.187965599] [command_execution_manager]: Execution Order Result 0. Execution time: 2.911742
+[INFO] [1632828157.204135724] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828158.328981224] [command_execution_manager]: Execution Order Result 0. Execution time: 1.123450
+[INFO] [1632828158.341805557] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828159.116943599] [command_execution_manager]: Execution Order Result 0. Execution time: 0.781145
+[INFO] [1632828159.121151058] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828160.176245517] [command_execution_manager]: Execution Order Result 0. Execution time: 1.055180
+[INFO] [1632828160.190706850] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828160.949737767] [command_execution_manager]: Execution Order Result 0. Execution time: 0.760830
+[INFO] [1632828160.964734309] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828162.038696976] [command_execution_manager]: Execution Order Result 0. Execution time: 1.072159
+[INFO] [1632828162.045210934] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828164.685935394] [command_execution_manager]: Execution Order Result 0. Execution time: 2.638933
+[INFO] [1632828164.697650394] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828165.699945269] [command_execution_manager]: Execution Order Result 0. Execution time: 1.001064
+[INFO] [1632828165.708040186] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828166.716706228] [command_execution_manager]: Execution Order Result 0. Execution time: 1.006964
+[INFO] [1632828166.728387978] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828167.798369520] [command_execution_manager]: Execution Order Result 0. Execution time: 1.071498
+[INFO] [1632828167.825095104] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828168.807518937] [command_execution_manager]: Execution Order Result 0. Execution time: 0.995133
+[INFO] [1632828168.814301562] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828169.896193563] [command_execution_manager]: Execution Order Result 0. Execution time: 1.081996
+[INFO] [1632828169.911237188] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828172.686428523] [command_execution_manager]: Execution Order Result 0. Execution time: 2.775255
+[INFO] [1632828172.714917273] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828173.793595065] [command_execution_manager]: Execution Order Result 0. Execution time: 1.080182
+[INFO] [1632828173.799934981] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828174.789960857] [command_execution_manager]: Execution Order Result 0. Execution time: 0.987172
+[INFO] [1632828174.806809774] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828175.895000774] [command_execution_manager]: Execution Order Result 0. Execution time: 1.088683
+[INFO] [1632828175.908708691] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828176.899982316] [command_execution_manager]: Execution Order Result 0. Execution time: 0.990279
+[INFO] [1632828176.913786066] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828178.044693275] [command_execution_manager]: Execution Order Result 0. Execution time: 1.129118
+[INFO] [1632828178.059736025] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828181.347623652] [command_execution_manager]: Execution Order Result 0. Execution time: 3.291108
+[INFO] [1632828181.359107527] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828182.398707402] [command_execution_manager]: Execution Order Result 0. Execution time: 1.038107
+[INFO] [1632828182.415182152] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828183.324512986] [command_execution_manager]: Execution Order Result 0. Execution time: 0.909449
+[INFO] [1632828183.336068361] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828184.442088028] [command_execution_manager]: Execution Order Result 0. Execution time: 1.106035
+[INFO] [1632828184.451344653] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828185.364162445] [command_execution_manager]: Execution Order Result 0. Execution time: 0.914139
+[INFO] [1632828185.374404237] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828186.349986696] [command_execution_manager]: Execution Order Result 0. Execution time: 0.974216
+[INFO] [1632828186.367896946] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828189.292935489] [command_execution_manager]: Execution Order Result 0. Execution time: 2.923395
+[INFO] [1632828189.326501572] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828190.407373073] [command_execution_manager]: Execution Order Result 0. Execution time: 1.096860
+[INFO] [1632828190.426632989] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828191.187762948] [command_execution_manager]: Execution Order Result 0. Execution time: 0.762194
+[INFO] [1632828191.195930656] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828192.303093824] [command_execution_manager]: Execution Order Result 0. Execution time: 1.107995
+[INFO] [1632828192.319706615] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828193.088383532] [command_execution_manager]: Execution Order Result 0. Execution time: 0.770907
+[INFO] [1632828193.096253991] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828194.215868866] [command_execution_manager]: Execution Order Result 0. Execution time: 1.117811
+[INFO] [1632828194.228391450] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828196.854943951] [command_execution_manager]: Execution Order Result 0. Execution time: 2.624707
+[INFO] [1632828196.861146117] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828197.878086035] [command_execution_manager]: Execution Order Result 0. Execution time: 1.015354
+[INFO] [1632828197.888635701] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828198.886002910] [command_execution_manager]: Execution Order Result 0. Execution time: 1.000818
+[INFO] [1632828198.905898243] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828199.923116202] [command_execution_manager]: Execution Order Result 0. Execution time: 1.028823
+[INFO] [1632828199.928440327] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828200.953351578] [command_execution_manager]: Execution Order Result 0. Execution time: 1.019757
+[INFO] [1632828200.969981661] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828202.025526245] [command_execution_manager]: Execution Order Result 0. Execution time: 1.054996
+[INFO] [1632828202.041271620] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828204.819310288] [command_execution_manager]: Execution Order Result 0. Execution time: 2.778603
+[INFO] [1632828204.836883246] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828205.878241497] [command_execution_manager]: Execution Order Result 0. Execution time: 1.039924
+[INFO] [1632828205.907022538] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828206.883572372] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989638
+[INFO] [1632828206.891998831] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828207.974828206] [command_execution_manager]: Execution Order Result 0. Execution time: 1.081154
+[INFO] [1632828207.990520539] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828208.980215040] [command_execution_manager]: Execution Order Result 0. Execution time: 0.994360
+[INFO] [1632828209.007124623] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828210.076943624] [command_execution_manager]: Execution Order Result 0. Execution time: 1.088239
+[INFO] [1632828210.087582332] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828213.372273625] [command_execution_manager]: Execution Order Result 0. Execution time: 3.285481
+[INFO] [1632828213.387735709] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828214.525558209] [command_execution_manager]: Execution Order Result 0. Execution time: 1.138058
+[INFO] [1632828214.547943501] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828215.463530085] [command_execution_manager]: Execution Order Result 0. Execution time: 0.918074
+[INFO] [1632828215.486806793] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828216.573198960] [command_execution_manager]: Execution Order Result 0. Execution time: 1.103840
+[INFO] [1632828216.586893752] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828217.490687836] [command_execution_manager]: Execution Order Result 0. Execution time: 0.904173
+[INFO] [1632828217.507654877] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828218.626127586] [command_execution_manager]: Execution Order Result 0. Execution time: 1.118608
+[INFO] [1632828218.640784003] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828221.546546213] [command_execution_manager]: Execution Order Result 0. Execution time: 2.909644
+[INFO] [1632828221.556309004] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828222.526494921] [command_execution_manager]: Execution Order Result 0. Execution time: 0.968629
+[INFO] [1632828222.544461755] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828223.314200005] [command_execution_manager]: Execution Order Result 0. Execution time: 0.773259
+[INFO] [1632828223.336828297] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828224.384458422] [command_execution_manager]: Execution Order Result 0. Execution time: 1.049698
+[INFO] [1632828224.390868756] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828225.198229839] [command_execution_manager]: Execution Order Result 0. Execution time: 0.805576
+[INFO] [1632828225.213723923] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828226.284051090] [command_execution_manager]: Execution Order Result 0. Execution time: 1.075417
+[INFO] [1632828226.293832798] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828228.929599799] [command_execution_manager]: Execution Order Result 0. Execution time: 2.634468
+[INFO] [1632828228.947362633] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828229.956975592] [command_execution_manager]: Execution Order Result 0. Execution time: 1.018857
+[INFO] [1632828229.968373925] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828230.964205175] [command_execution_manager]: Execution Order Result 0. Execution time: 0.997609
+[INFO] [1632828230.978799217] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828232.004249718] [command_execution_manager]: Execution Order Result 0. Execution time: 1.030385
+[INFO] [1632828232.012651384] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828233.014685385] [command_execution_manager]: Execution Order Result 0. Execution time: 1.003555
+[INFO] [1632828233.024723176] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828234.107285385] [command_execution_manager]: Execution Order Result 0. Execution time: 1.079636
+[INFO] [1632828234.129838260] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828236.895710928] [command_execution_manager]: Execution Order Result 0. Execution time: 2.774813
+[INFO] [1632828236.904855803] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828238.008892220] [command_execution_manager]: Execution Order Result 0. Execution time: 1.102882
+[INFO] [1632828238.022944970] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828238.998978763] [command_execution_manager]: Execution Order Result 0. Execution time: 0.976238
+[INFO] [1632828239.005998638] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828240.106355638] [command_execution_manager]: Execution Order Result 0. Execution time: 1.098678
+[INFO] [1632828240.116550846] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828241.099078972] [command_execution_manager]: Execution Order Result 0. Execution time: 0.983505
+[INFO] [1632828241.126627389] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828242.200468722] [command_execution_manager]: Execution Order Result 0. Execution time: 1.090345
+[INFO] [1632828242.210578847] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828245.513890641] [command_execution_manager]: Execution Order Result 0. Execution time: 3.303621
+[INFO] [1632828245.532884849] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828246.655601350] [command_execution_manager]: Execution Order Result 0. Execution time: 1.121937
+[INFO] [1632828246.662843600] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828247.564674517] [command_execution_manager]: Execution Order Result 0. Execution time: 0.901941
+[INFO] [1632828247.578392558] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828248.554006267] [command_execution_manager]: Execution Order Result 0. Execution time: 0.975707
+[INFO] [1632828248.559167892] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828249.472908476] [command_execution_manager]: Execution Order Result 0. Execution time: 0.912247
+[INFO] [1632828249.491229018] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828250.653011435] [command_execution_manager]: Execution Order Result 0. Execution time: 1.160588
+[INFO] [1632828250.670768851] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828253.585592019] [command_execution_manager]: Execution Order Result 0. Execution time: 2.913992
+[INFO] [1632828253.591819144] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828254.603747520] [command_execution_manager]: Execution Order Result 0. Execution time: 1.010776
+[INFO] [1632828254.621832728] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828255.388389604] [command_execution_manager]: Execution Order Result 0. Execution time: 0.767454
+[INFO] [1632828255.398982937] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828256.466462271] [command_execution_manager]: Execution Order Result 0. Execution time: 1.069745
+[INFO] [1632828256.473246146] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828257.262466063] [command_execution_manager]: Execution Order Result 0. Execution time: 0.788033
+[INFO] [1632828257.282474438] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828258.314191688] [command_execution_manager]: Execution Order Result 0. Execution time: 1.040569
+[INFO] [1632828258.319247022] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828260.951940315] [command_execution_manager]: Execution Order Result 0. Execution time: 2.632938
+[INFO] [1632828260.956122898] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828261.977588065] [command_execution_manager]: Execution Order Result 0. Execution time: 1.021450
+[INFO] [1632828261.985056315] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828262.975892774] [command_execution_manager]: Execution Order Result 0. Execution time: 0.991247
+[INFO] [1632828262.983362232] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828264.032781774] [command_execution_manager]: Execution Order Result 0. Execution time: 1.048444
+[INFO] [1632828264.042474899] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828265.042027192] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999636
+[INFO] [1632828265.054757775] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828266.080048192] [command_execution_manager]: Execution Order Result 0. Execution time: 1.025427
+[INFO] [1632828266.093478692] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828268.865187235] [command_execution_manager]: Execution Order Result 0. Execution time: 2.773875
+[INFO] [1632828268.881633110] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828269.947207902] [command_execution_manager]: Execution Order Result 0. Execution time: 1.065023
+[INFO] [1632828269.966234694] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828270.948270944] [command_execution_manager]: Execution Order Result 0. Execution time: 0.982134
+[INFO] [1632828270.960173444] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828272.047457737] [command_execution_manager]: Execution Order Result 0. Execution time: 1.087495
+[INFO] [1632828272.061567445] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828273.047028695] [command_execution_manager]: Execution Order Result 0. Execution time: 0.985550
+[INFO] [1632828273.054709445] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828274.149133029] [command_execution_manager]: Execution Order Result 0. Execution time: 1.089325
+[INFO] [1632828274.160751029] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828277.449035823] [command_execution_manager]: Execution Order Result 0. Execution time: 3.291407
+[INFO] [1632828277.453775364] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828278.483186073] [command_execution_manager]: Execution Order Result 0. Execution time: 1.028220
+[INFO] [1632828278.503852365] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828279.408048990] [command_execution_manager]: Execution Order Result 0. Execution time: 0.911406
+[INFO] [1632828279.413815907] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828280.346240532] [command_execution_manager]: Execution Order Result 0. Execution time: 0.931275
+[INFO] [1632828280.355224657] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828281.269086949] [command_execution_manager]: Execution Order Result 0. Execution time: 0.914433
+[INFO] [1632828281.287509949] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828282.242062200] [command_execution_manager]: Execution Order Result 0. Execution time: 0.954623
+[INFO] [1632828282.252266283] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828285.176448076] [command_execution_manager]: Execution Order Result 0. Execution time: 2.922999
+[INFO] [1632828285.199303285] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828286.293371743] [command_execution_manager]: Execution Order Result 0. Execution time: 1.092222
+[INFO] [1632828286.311308368] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828287.077811119] [command_execution_manager]: Execution Order Result 0. Execution time: 0.769814
+[INFO] [1632828287.096914160] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828288.201524703] [command_execution_manager]: Execution Order Result 0. Execution time: 1.104730
+[INFO] [1632828288.214784744] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828288.985451245] [command_execution_manager]: Execution Order Result 0. Execution time: 0.772945
+[INFO] [1632828288.994058328] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828290.101052745] [command_execution_manager]: Execution Order Result 0. Execution time: 1.107131
+[INFO] [1632828290.121668079] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828292.743123913] [command_execution_manager]: Execution Order Result 0. Execution time: 2.633471
+[INFO] [1632828292.753530538] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828293.765570830] [command_execution_manager]: Execution Order Result 0. Execution time: 1.010631
+[INFO] [1632828293.781563664] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828294.778036039] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999317
+[INFO] [1632828294.784446206] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828295.813778956] [command_execution_manager]: Execution Order Result 0. Execution time: 1.027676
+[INFO] [1632828295.823323831] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828296.838070873] [command_execution_manager]: Execution Order Result 0. Execution time: 1.014773
+[INFO] [1632828296.844774915] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828297.913105874] [command_execution_manager]: Execution Order Result 0. Execution time: 1.068410
+[INFO] [1632828297.925259082] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828300.702553209] [command_execution_manager]: Execution Order Result 0. Execution time: 2.777338
+[INFO] [1632828300.729119042] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828301.824982209] [command_execution_manager]: Execution Order Result 0. Execution time: 1.096696
+[INFO] [1632828301.835562959] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828302.833532376] [command_execution_manager]: Execution Order Result 0. Execution time: 0.996167
+[INFO] [1632828302.847001668] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828303.877428418] [command_execution_manager]: Execution Order Result 0. Execution time: 1.029553
+[INFO] [1632828303.888985377] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828304.876301919] [command_execution_manager]: Execution Order Result 0. Execution time: 0.987484
+[INFO] [1632828304.882979544] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828305.923821544] [command_execution_manager]: Execution Order Result 0. Execution time: 1.041945
+[INFO] [1632828305.940211711] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828309.254270546] [command_execution_manager]: Execution Order Result 0. Execution time: 3.318055
+[INFO] [1632828309.262969088] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828310.367356797] [command_execution_manager]: Execution Order Result 0. Execution time: 1.102722
+[INFO] [1632828310.380034380] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828311.284480422] [command_execution_manager]: Execution Order Result 0. Execution time: 0.904538
+[INFO] [1632828311.302812464] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828312.424157631] [command_execution_manager]: Execution Order Result 0. Execution time: 1.128016
+[INFO] [1632828312.438306881] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828313.347184131] [command_execution_manager]: Execution Order Result 0. Execution time: 0.907374
+[INFO] [1632828313.360841298] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828314.470245424] [command_execution_manager]: Execution Order Result 0. Execution time: 1.109555
+[INFO] [1632828314.482845799] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828317.408897300] [command_execution_manager]: Execution Order Result 0. Execution time: 2.924555
+[INFO] [1632828317.426203592] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828318.524001134] [command_execution_manager]: Execution Order Result 0. Execution time: 1.101495
+[INFO] [1632828318.535832967] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828319.320060092] [command_execution_manager]: Execution Order Result 0. Execution time: 0.782617
+[INFO] [1632828319.335116592] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828320.373430760] [command_execution_manager]: Execution Order Result 0. Execution time: 1.039950
+[INFO] [1632828320.388354093] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828321.164425552] [command_execution_manager]: Execution Order Result 0. Execution time: 0.776319
+[INFO] [1632828321.178992260] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828322.182647427] [command_execution_manager]: Execution Order Result 0. Execution time: 1.002449
+[INFO] [1632828322.202796136] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828324.839541928] [command_execution_manager]: Execution Order Result 0. Execution time: 2.641020
+[INFO] [1632828324.845963303] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828325.841321929] [command_execution_manager]: Execution Order Result 0. Execution time: 0.994162
+[INFO] [1632828325.858716554] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828326.867607013] [command_execution_manager]: Execution Order Result 0. Execution time: 1.011285
+[INFO] [1632828326.872221054] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828327.940874055] [command_execution_manager]: Execution Order Result 0. Execution time: 1.066994
+[INFO] [1632828327.953166347] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828328.959098472] [command_execution_manager]: Execution Order Result 0. Execution time: 1.006042
+[INFO] [1632828328.963571472] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828329.991954973] [command_execution_manager]: Execution Order Result 0. Execution time: 1.028507
+[INFO] [1632828330.005023473] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828332.789599057] [command_execution_manager]: Execution Order Result 0. Execution time: 2.784654
+[INFO] [1632828332.796067432] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828333.949682558] [command_execution_manager]: Execution Order Result 0. Execution time: 1.154471
+[INFO] [1632828333.954355641] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828334.943406308] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989173
+[INFO] [1632828334.950249975] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828336.055529767] [command_execution_manager]: Execution Order Result 0. Execution time: 1.103981
+[INFO] [1632828336.065491600] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828337.053110893] [command_execution_manager]: Execution Order Result 0. Execution time: 0.986073
+[INFO] [1632828337.084801143] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828338.201915018] [command_execution_manager]: Execution Order Result 0. Execution time: 1.127464
+[INFO] [1632828338.212292518] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828341.507391811] [command_execution_manager]: Execution Order Result 0. Execution time: 3.293440
+[INFO] [1632828341.513601436] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828342.441210854] [command_execution_manager]: Execution Order Result 0. Execution time: 0.927682
+[INFO] [1632828342.452253687] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828343.355333812] [command_execution_manager]: Execution Order Result 0. Execution time: 0.907108
+[INFO] [1632828343.365113479] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828344.356574688] [command_execution_manager]: Execution Order Result 0. Execution time: 0.990184
+[INFO] [1632828344.374523438] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828345.281715855] [command_execution_manager]: Execution Order Result 0. Execution time: 0.909463
+[INFO] [1632828345.306400272] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828346.454015314] [command_execution_manager]: Execution Order Result 0. Execution time: 1.148229
+[INFO] [1632828346.465007189] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828349.370578565] [command_execution_manager]: Execution Order Result 0. Execution time: 2.905631
+[INFO] [1632828349.377270190] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828350.600448274] [command_execution_manager]: Execution Order Result 0. Execution time: 1.223274
+[INFO] [1632828350.616711191] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828351.381211566] [command_execution_manager]: Execution Order Result 0. Execution time: 0.768613
+[INFO] [1632828351.395562233] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828352.497442400] [command_execution_manager]: Execution Order Result 0. Execution time: 1.104156
+[INFO] [1632828352.516178900] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828353.292253942] [command_execution_manager]: Execution Order Result 0. Execution time: 0.778099
+[INFO] [1632828353.308489817] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828354.361777943] [command_execution_manager]: Execution Order Result 0. Execution time: 1.052146
+[INFO] [1632828354.379556234] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828357.009712902] [command_execution_manager]: Execution Order Result 0. Execution time: 2.633230
+[INFO] [1632828357.021121152] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828358.073277319] [command_execution_manager]: Execution Order Result 0. Execution time: 1.057485
+[INFO] [1632828358.081768069] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828359.116216611] [command_execution_manager]: Execution Order Result 0. Execution time: 1.034514
+[INFO] [1632828359.120939361] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828360.170753320] [command_execution_manager]: Execution Order Result 0. Execution time: 1.049796
+[INFO] [1632828360.180750487] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828361.188370946] [command_execution_manager]: Execution Order Result 0. Execution time: 1.007700
+[INFO] [1632828361.192821446] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828362.221457655] [command_execution_manager]: Execution Order Result 0. Execution time: 1.028706
+[INFO] [1632828362.232557946] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828364.998674656] [command_execution_manager]: Execution Order Result 0. Execution time: 2.766165
+[INFO] [1632828365.009188489] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828366.121369490] [command_execution_manager]: Execution Order Result 0. Execution time: 1.113212
+[INFO] [1632828366.138059448] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828367.126040115] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989419
+[INFO] [1632828367.137981240] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828368.269158074] [command_execution_manager]: Execution Order Result 0. Execution time: 1.131284
+[INFO] [1632828368.277527699] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828369.267292116] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989837
+[INFO] [1632828369.274289075] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828370.324014700] [command_execution_manager]: Execution Order Result 0. Execution time: 1.049108
+[INFO] [1632828370.341224783] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828373.630108452] [command_execution_manager]: Execution Order Result 0. Execution time: 3.292932
+[INFO] [1632828373.640896452] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828374.728492119] [command_execution_manager]: Execution Order Result 0. Execution time: 1.092096
+[INFO] [1632828374.734666119] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828375.642878494] [command_execution_manager]: Execution Order Result 0. Execution time: 0.908374
+[INFO] [1632828375.649433578] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828376.821025328] [command_execution_manager]: Execution Order Result 0. Execution time: 1.171805
+[INFO] [1632828376.827202953] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828377.738473120] [command_execution_manager]: Execution Order Result 0. Execution time: 0.909440
+[INFO] [1632828377.756103787] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828378.919572663] [command_execution_manager]: Execution Order Result 0. Execution time: 1.166433
+[INFO] [1632828378.932556079] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828381.862180206] [command_execution_manager]: Execution Order Result 0. Execution time: 2.927776
+[INFO] [1632828381.870352914] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828382.820876748] [command_execution_manager]: Execution Order Result 0. Execution time: 0.949173
+[INFO] [1632828382.830545123] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828383.596544873] [command_execution_manager]: Execution Order Result 0. Execution time: 0.764037
+[INFO] [1632828383.609603331] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828384.687437832] [command_execution_manager]: Execution Order Result 0. Execution time: 1.068426
+[INFO] [1632828384.693615499] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828385.468820957] [command_execution_manager]: Execution Order Result 0. Execution time: 0.774007
+[INFO] [1632828385.490533082] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828386.530973958] [command_execution_manager]: Execution Order Result 0. Execution time: 1.040316
+[INFO] [1632828386.542592083] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828389.170174209] [command_execution_manager]: Execution Order Result 0. Execution time: 2.627653
+[INFO] [1632828389.175900417] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828390.252321835] [command_execution_manager]: Execution Order Result 0. Execution time: 1.075130
+[INFO] [1632828390.267977626] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828391.273345043] [command_execution_manager]: Execution Order Result 0. Execution time: 1.005556
+[INFO] [1632828391.278605335] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828392.353375044] [command_execution_manager]: Execution Order Result 0. Execution time: 1.073665
+[INFO] [1632828392.376402627] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828393.379980211] [command_execution_manager]: Execution Order Result 0. Execution time: 1.003691
+[INFO] [1632828393.390085753] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828394.389517087] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999646
+[INFO] [1632828394.406797170] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828397.175461171] [command_execution_manager]: Execution Order Result 0. Execution time: 2.773240
+[INFO] [1632828397.198504755] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828398.299289005] [command_execution_manager]: Execution Order Result 0. Execution time: 1.105066
+[INFO] [1632828398.321536338] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828399.296407089] [command_execution_manager]: Execution Order Result 0. Execution time: 0.985452
+[INFO] [1632828399.302307422] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828400.400508423] [command_execution_manager]: Execution Order Result 0. Execution time: 1.098264
+[INFO] [1632828400.421520548] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828401.397381965] [command_execution_manager]: Execution Order Result 0. Execution time: 0.978491
+[INFO] [1632828401.406641298] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828402.500460840] [command_execution_manager]: Execution Order Result 0. Execution time: 1.092697
+[INFO] [1632828402.510588757] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828405.807612217] [command_execution_manager]: Execution Order Result 0. Execution time: 3.297138
+[INFO] [1632828405.824902009] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828406.799692843] [command_execution_manager]: Execution Order Result 0. Execution time: 0.975422
+[INFO] [1632828406.812965718] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828407.714506926] [command_execution_manager]: Execution Order Result 0. Execution time: 0.899294
+[INFO] [1632828407.734005093] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828409.001683552] [command_execution_manager]: Execution Order Result 0. Execution time: 1.270879
+[INFO] [1632828409.015927344] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828409.909210552] [command_execution_manager]: Execution Order Result 0. Execution time: 0.893407
+[INFO] [1632828409.918643344] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828410.950042886] [command_execution_manager]: Execution Order Result 0. Execution time: 1.028817
+[INFO] [1632828410.974677636] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828413.881493304] [command_execution_manager]: Execution Order Result 0. Execution time: 2.918115
+[INFO] [1632828413.894089513] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828415.197450055] [command_execution_manager]: Execution Order Result 0. Execution time: 1.309609
+[INFO] [1632828415.207854097] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828415.972548472] [command_execution_manager]: Execution Order Result 0. Execution time: 0.764814
+[INFO] [1632828415.981895764] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828417.099009181] [command_execution_manager]: Execution Order Result 0. Execution time: 1.117184
+[INFO] [1632828417.122875306] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828417.886861889] [command_execution_manager]: Execution Order Result 0. Execution time: 0.774361
+[INFO] [1632828417.907109848] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828418.997575432] [command_execution_manager]: Execution Order Result 0. Execution time: 1.097978
+[INFO] [1632828419.003338723] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828421.647814141] [command_execution_manager]: Execution Order Result 0. Execution time: 2.644571
+[INFO] [1632828421.664899558] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828422.765388683] [command_execution_manager]: Execution Order Result 0. Execution time: 1.099441
+[INFO] [1632828422.778775100] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828423.777099142] [command_execution_manager]: Execution Order Result 0. Execution time: 1.003042
+[INFO] [1632828423.782335267] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828424.905917559] [command_execution_manager]: Execution Order Result 0. Execution time: 1.123735
+[INFO] [1632828424.917064601] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828425.912383018] [command_execution_manager]: Execution Order Result 0. Execution time: 0.995372
+[INFO] [1632828425.921985852] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828426.959294060] [command_execution_manager]: Execution Order Result 0. Execution time: 1.038162
+[INFO] [1632828426.968947602] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828429.757284978] [command_execution_manager]: Execution Order Result 0. Execution time: 2.785661
+[INFO] [1632828429.768444978] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828430.917488021] [command_execution_manager]: Execution Order Result 0. Execution time: 1.149277
+[INFO] [1632828430.934334104] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828431.927622855] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999797
+[INFO] [1632828431.949291480] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828433.016789480] [command_execution_manager]: Execution Order Result 0. Execution time: 1.067749
+[INFO] [1632828433.023858855] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828434.030260356] [command_execution_manager]: Execution Order Result 0. Execution time: 1.001780
+[INFO] [1632828434.051171064] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828435.068576564] [command_execution_manager]: Execution Order Result 0. Execution time: 1.017567
+[INFO] [1632828435.073099439] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828438.373989358] [command_execution_manager]: Execution Order Result 0. Execution time: 3.300903
+[INFO] [1632828438.378847233] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828439.320746733] [command_execution_manager]: Execution Order Result 0. Execution time: 0.942025
+[INFO] [1632828439.334839483] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828440.233521733] [command_execution_manager]: Execution Order Result 0. Execution time: 0.905348
+[INFO] [1632828440.242671525] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828441.367639609] [command_execution_manager]: Execution Order Result 0. Execution time: 1.125097
+[INFO] [1632828441.378597901] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828442.282128109] [command_execution_manager]: Execution Order Result 0. Execution time: 0.906972
+[INFO] [1632828442.286512984] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828443.421527818] [command_execution_manager]: Execution Order Result 0. Execution time: 1.132078
+[INFO] [1632828443.433510985] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828446.350546236] [command_execution_manager]: Execution Order Result 0. Execution time: 2.922133
+[INFO] [1632828446.365639778] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828447.320906237] [command_execution_manager]: Execution Order Result 0. Execution time: 0.953729
+[INFO] [1632828447.341019570] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828448.109322279] [command_execution_manager]: Execution Order Result 0. Execution time: 0.770918
+[INFO] [1632828448.121408196] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828449.182313363] [command_execution_manager]: Execution Order Result 0. Execution time: 1.059806
+[INFO] [1632828449.208905488] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828449.971490405] [command_execution_manager]: Execution Order Result 0. Execution time: 0.770508
+[INFO] [1632828449.976145363] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828450.888165239] [command_execution_manager]: Execution Order Result 0. Execution time: 0.912059
+[INFO] [1632828450.894080905] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828453.529667823] [command_execution_manager]: Execution Order Result 0. Execution time: 2.635031
+[INFO] [1632828453.547682990] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828454.651387324] [command_execution_manager]: Execution Order Result 0. Execution time: 1.114506
+[INFO] [1632828454.677506532] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828455.674055033] [command_execution_manager]: Execution Order Result 0. Execution time: 1.006279
+[INFO] [1632828455.683773783] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828456.753402533] [command_execution_manager]: Execution Order Result 0. Execution time: 1.068378
+[INFO] [1632828456.769025950] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828457.783832492] [command_execution_manager]: Execution Order Result 0. Execution time: 1.017885
+[INFO] [1632828457.798938575] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828458.850829659] [command_execution_manager]: Execution Order Result 0. Execution time: 1.056621
+[INFO] [1632828458.869223451] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828461.644389494] [command_execution_manager]: Execution Order Result 0. Execution time: 2.773331
+[INFO] [1632828461.650340369] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828462.752836411] [command_execution_manager]: Execution Order Result 0. Execution time: 1.101120
+[INFO] [1632828462.768863744] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828463.754313911] [command_execution_manager]: Execution Order Result 0. Execution time: 0.984313
+[INFO] [1632828463.768090536] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828464.851367120] [command_execution_manager]: Execution Order Result 0. Execution time: 1.086769
+[INFO] [1632828464.865352662] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828465.849040954] [command_execution_manager]: Execution Order Result 0. Execution time: 0.985815
+[INFO] [1632828465.871912287] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828466.950394163] [command_execution_manager]: Execution Order Result 0. Execution time: 1.076376
+[INFO] [1632828466.970328830] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828470.270347498] [command_execution_manager]: Execution Order Result 0. Execution time: 3.298531
+[INFO] [1632828470.286791498] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828471.354261207] [command_execution_manager]: Execution Order Result 0. Execution time: 1.073583
+[INFO] [1632828471.374071415] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828472.267910457] [command_execution_manager]: Execution Order Result 0. Execution time: 0.893928
+[INFO] [1632828472.287046332] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828473.451755333] [command_execution_manager]: Execution Order Result 0. Execution time: 1.165575
+[INFO] [1632828473.464496708] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828474.379498500] [command_execution_manager]: Execution Order Result 0. Execution time: 0.915110
+[INFO] [1632828474.387737125] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828475.547073959] [command_execution_manager]: Execution Order Result 0. Execution time: 1.161349
+[INFO] [1632828475.560140459] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828478.466028835] [command_execution_manager]: Execution Order Result 0. Execution time: 2.909954
+[INFO] [1632828478.487410668] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828479.700749586] [command_execution_manager]: Execution Order Result 0. Execution time: 1.214055
+[INFO] [1632828479.712608127] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828480.492633503] [command_execution_manager]: Execution Order Result 0. Execution time: 0.780118
+[INFO] [1632828480.510062253] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828481.600630337] [command_execution_manager]: Execution Order Result 0. Execution time: 1.096378
+[INFO] [1632828481.623758837] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828482.390157670] [command_execution_manager]: Execution Order Result 0. Execution time: 0.776746
+[INFO] [1632828482.402709295] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828483.455557921] [command_execution_manager]: Execution Order Result 0. Execution time: 1.052996
+[INFO] [1632828483.462121837] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828486.109529005] [command_execution_manager]: Execution Order Result 0. Execution time: 2.643448
+[INFO] [1632828486.126070089] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828487.122621297] [command_execution_manager]: Execution Order Result 0. Execution time: 1.003989
+[INFO] [1632828487.127943464] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828488.140839006] [command_execution_manager]: Execution Order Result 0. Execution time: 1.012990
+[INFO] [1632828488.145552590] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828489.221234715] [command_execution_manager]: Execution Order Result 0. Execution time: 1.074572
+[INFO] [1632828489.237185507] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828490.244190299] [command_execution_manager]: Execution Order Result 0. Execution time: 1.008965
+[INFO] [1632828490.263024674] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828491.268010174] [command_execution_manager]: Execution Order Result 0. Execution time: 1.015072
+[INFO] [1632828491.279293133] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828494.056930009] [command_execution_manager]: Execution Order Result 0. Execution time: 2.775902
+[INFO] [1632828494.067875467] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828495.079439801] [command_execution_manager]: Execution Order Result 0. Execution time: 1.012652
+[INFO] [1632828495.089186135] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828496.075296968] [command_execution_manager]: Execution Order Result 0. Execution time: 0.988405
+[INFO] [1632828496.087602593] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828497.026284802] [command_execution_manager]: Execution Order Result 0. Execution time: 0.939786
+[INFO] [1632828497.035929011] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828498.033641844] [command_execution_manager]: Execution Order Result 0. Execution time: 0.996281
+[INFO] [1632828498.044498928] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828499.132544595] [command_execution_manager]: Execution Order Result 0. Execution time: 1.088119
+[INFO] [1632828499.145029137] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828502.434933138] [command_execution_manager]: Execution Order Result 0. Execution time: 3.287925
+[INFO] [1632828502.448157221] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828503.380393805] [command_execution_manager]: Execution Order Result 0. Execution time: 0.935970
+[INFO] [1632828503.396019805] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828504.296869681] [command_execution_manager]: Execution Order Result 0. Execution time: 0.901528
+[INFO] [1632828504.303182347] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828505.226141431] [command_execution_manager]: Execution Order Result 0. Execution time: 0.921493
+[INFO] [1632828505.235334723] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828506.148561098] [command_execution_manager]: Execution Order Result 0. Execution time: 0.912499
+[INFO] [1632828506.159288432] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828507.090743432] [command_execution_manager]: Execution Order Result 0. Execution time: 0.930158
+[INFO] [1632828507.104702599] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828510.016997308] [command_execution_manager]: Execution Order Result 0. Execution time: 2.914485
+[INFO] [1632828510.035291350] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828511.136580892] [command_execution_manager]: Execution Order Result 0. Execution time: 1.099444
+[INFO] [1632828511.158021684] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828511.915001184] [command_execution_manager]: Execution Order Result 0. Execution time: 0.767469
+[INFO] [1632828511.923990893] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828512.997558227] [command_execution_manager]: Execution Order Result 0. Execution time: 1.073621
+[INFO] [1632828513.003802143] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828513.777475185] [command_execution_manager]: Execution Order Result 0. Execution time: 0.773716
+[INFO] [1632828513.785272185] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828514.899144019] [command_execution_manager]: Execution Order Result 0. Execution time: 1.112573
+[INFO] [1632828514.911890977] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828517.535183895] [command_execution_manager]: Execution Order Result 0. Execution time: 2.626021
+[INFO] [1632828517.545286104] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828518.559784021] [command_execution_manager]: Execution Order Result 0. Execution time: 1.013358
+[INFO] [1632828518.573407104] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828519.596826855] [command_execution_manager]: Execution Order Result 0. Execution time: 1.016287
+[INFO] [1632828519.611143313] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828520.608056313] [command_execution_manager]: Execution Order Result 0. Execution time: 0.995380
+[INFO] [1632828520.622224438] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828521.635094314] [command_execution_manager]: Execution Order Result 0. Execution time: 1.016185
+[INFO] [1632828521.642539939] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828522.704736564] [command_execution_manager]: Execution Order Result 0. Execution time: 1.062482
+[INFO] [1632828522.711249064] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828525.503397774] [command_execution_manager]: Execution Order Result 0. Execution time: 2.790032
+[INFO] [1632828525.514977357] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828526.669508316] [command_execution_manager]: Execution Order Result 0. Execution time: 1.158957
+[INFO] [1632828526.685334525] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828527.667774733] [command_execution_manager]: Execution Order Result 0. Execution time: 0.982555
+[INFO] [1632828527.680581900] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828528.716669026] [command_execution_manager]: Execution Order Result 0. Execution time: 1.036272
+[INFO] [1632828528.728427026] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828529.716043193] [command_execution_manager]: Execution Order Result 0. Execution time: 0.985922
+[INFO] [1632828529.743140943] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828530.824894027] [command_execution_manager]: Execution Order Result 0. Execution time: 1.086603
+[INFO] [1632828530.854989318] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828534.128830820] [command_execution_manager]: Execution Order Result 0. Execution time: 3.286289
+[INFO] [1632828534.140076987] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828535.262362279] [command_execution_manager]: Execution Order Result 0. Execution time: 1.120249
+[INFO] [1632828535.269032820] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828536.179804613] [command_execution_manager]: Execution Order Result 0. Execution time: 0.909172
+[INFO] [1632828536.187753196] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828537.309308280] [command_execution_manager]: Execution Order Result 0. Execution time: 1.121342
+[INFO] [1632828537.322228738] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828538.234249780] [command_execution_manager]: Execution Order Result 0. Execution time: 0.912058
+[INFO] [1632828538.247782530] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828539.458863156] [command_execution_manager]: Execution Order Result 0. Execution time: 1.209879
+[INFO] [1632828539.474579656] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828542.388925532] [command_execution_manager]: Execution Order Result 0. Execution time: 2.915412
+[INFO] [1632828542.407850157] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828543.509273408] [command_execution_manager]: Execution Order Result 0. Execution time: 1.103476
+[INFO] [1632828543.526180324] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828544.293823700] [command_execution_manager]: Execution Order Result 0. Execution time: 0.772456
+[INFO] [1632828544.302239991] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828545.420420867] [command_execution_manager]: Execution Order Result 0. Execution time: 1.116485
+[INFO] [1632828545.431610784] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828546.209135492] [command_execution_manager]: Execution Order Result 0. Execution time: 0.781304
+[INFO] [1632828546.228565659] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828547.262514076] [command_execution_manager]: Execution Order Result 0. Execution time: 1.036059
+[INFO] [1632828547.277141868] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828549.913398702] [command_execution_manager]: Execution Order Result 0. Execution time: 2.640775
+[INFO] [1632828549.919259369] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828550.939147203] [command_execution_manager]: Execution Order Result 0. Execution time: 1.018334
+[INFO] [1632828550.964157286] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828551.980900912] [command_execution_manager]: Execution Order Result 0. Execution time: 1.017698
+[INFO] [1632828552.006937120] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828553.039534121] [command_execution_manager]: Execution Order Result 0. Execution time: 1.047183
+[INFO] [1632828553.048329829] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828554.061738829] [command_execution_manager]: Execution Order Result 0. Execution time: 1.015477
+[INFO] [1632828554.076038954] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828555.182713955] [command_execution_manager]: Execution Order Result 0. Execution time: 1.106513
+[INFO] [1632828555.190489080] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828557.951592373] [command_execution_manager]: Execution Order Result 0. Execution time: 2.763293
+[INFO] [1632828557.981221415] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828559.037620248] [command_execution_manager]: Execution Order Result 0. Execution time: 1.066737
+[INFO] [1632828559.055347832] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828560.048387207] [command_execution_manager]: Execution Order Result 0. Execution time: 0.993374
+[INFO] [1632828560.066305041] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828561.089832541] [command_execution_manager]: Execution Order Result 0. Execution time: 1.026140
+[INFO] [1632828561.104500749] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828562.085676333] [command_execution_manager]: Execution Order Result 0. Execution time: 0.983609
+[INFO] [1632828562.090910167] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828563.188471042] [command_execution_manager]: Execution Order Result 0. Execution time: 1.095792
+[INFO] [1632828563.200013875] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828566.495695252] [command_execution_manager]: Execution Order Result 0. Execution time: 3.300280
+[INFO] [1632828566.508307127] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828567.437486086] [command_execution_manager]: Execution Order Result 0. Execution time: 0.928134
+[INFO] [1632828567.444914627] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828568.372583128] [command_execution_manager]: Execution Order Result 0. Execution time: 0.927767
+[INFO] [1632828568.382381378] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828569.384992462] [command_execution_manager]: Execution Order Result 0. Execution time: 1.002723
+[INFO] [1632828569.403256920] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828570.323144587] [command_execution_manager]: Execution Order Result 0. Execution time: 0.921857
+[INFO] [1632828570.331560171] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828571.434882546] [command_execution_manager]: Execution Order Result 0. Execution time: 1.102089
+[INFO] [1632828571.460122171] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828574.361163089] [command_execution_manager]: Execution Order Result 0. Execution time: 2.911415
+[INFO] [1632828574.381510547] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828575.502700590] [command_execution_manager]: Execution Order Result 0. Execution time: 1.129009
+[INFO] [1632828575.515436215] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828576.298459465] [command_execution_manager]: Execution Order Result 0. Execution time: 0.781296
+[INFO] [1632828576.312992298] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828577.398766924] [command_execution_manager]: Execution Order Result 0. Execution time: 1.081716
+[INFO] [1632828577.410746507] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828578.186373008] [command_execution_manager]: Execution Order Result 0. Execution time: 0.776044
+[INFO] [1632828578.202981674] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828579.294118008] [command_execution_manager]: Execution Order Result 0. Execution time: 1.095717
+[INFO] [1632828579.302111383] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828581.934267593] [command_execution_manager]: Execution Order Result 0. Execution time: 2.632662
+[INFO] [1632828581.942689259] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828582.963496593] [command_execution_manager]: Execution Order Result 0. Execution time: 1.021527
+[INFO] [1632828582.970231343] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828583.980117427] [command_execution_manager]: Execution Order Result 0. Execution time: 1.010899
+[INFO] [1632828583.984442885] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828585.014347803] [command_execution_manager]: Execution Order Result 0. Execution time: 1.030018
+[INFO] [1632828585.026116261] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828586.048868303] [command_execution_manager]: Execution Order Result 0. Execution time: 1.021192
+[INFO] [1632828586.073164970] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828587.061984137] [command_execution_manager]: Execution Order Result 0. Execution time: 1.007402
+[INFO] [1632828587.078229595] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828589.858440846] [command_execution_manager]: Execution Order Result 0. Execution time: 2.783670
+[INFO] [1632828589.868028096] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828590.962625222] [command_execution_manager]: Execution Order Result 0. Execution time: 1.094700
+[INFO] [1632828590.967268805] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828591.971897014] [command_execution_manager]: Execution Order Result 0. Execution time: 1.004255
+[INFO] [1632828591.994630181] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828593.015700598] [command_execution_manager]: Execution Order Result 0. Execution time: 1.026503
+[INFO] [1632828593.026199723] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828594.045343682] [command_execution_manager]: Execution Order Result 0. Execution time: 1.015331
+[INFO] [1632828594.067937265] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828595.022502599] [command_execution_manager]: Execution Order Result 0. Execution time: 0.965357
+[INFO] [1632828595.030684766] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828598.336560226] [command_execution_manager]: Execution Order Result 0. Execution time: 3.304873
+[INFO] [1632828598.345367517] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828599.517812018] [command_execution_manager]: Execution Order Result 0. Execution time: 1.170805
+[INFO] [1632828599.539917768] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828600.445741977] [command_execution_manager]: Execution Order Result 0. Execution time: 0.907905
+[INFO] [1632828600.467893643] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828601.620138435] [command_execution_manager]: Execution Order Result 0. Execution time: 1.158533
+[INFO] [1632828601.640377227] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828602.539895811] [command_execution_manager]: Execution Order Result 0. Execution time: 0.904942
+[INFO] [1632828602.551933519] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828603.671399728] [command_execution_manager]: Execution Order Result 0. Execution time: 1.116573
+[INFO] [1632828603.682725270] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828606.600930396] [command_execution_manager]: Execution Order Result 0. Execution time: 2.920987
+[INFO] [1632828606.607165771] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828607.565601438] [command_execution_manager]: Execution Order Result 0. Execution time: 0.958434
+[INFO] [1632828607.575191855] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828608.343864730] [command_execution_manager]: Execution Order Result 0. Execution time: 0.771877
+[INFO] [1632828608.360428522] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828609.375222981] [command_execution_manager]: Execution Order Result 0. Execution time: 1.018045
+[INFO] [1632828609.383608272] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828610.160218898] [command_execution_manager]: Execution Order Result 0. Execution time: 0.776622
+[INFO] [1632828610.164702565] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828611.237656357] [command_execution_manager]: Execution Order Result 0. Execution time: 1.073064
+[INFO] [1632828611.244165648] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828613.892928358] [command_execution_manager]: Execution Order Result 0. Execution time: 2.646846
+[INFO] [1632828613.917365900] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828614.991857650] [command_execution_manager]: Execution Order Result 0. Execution time: 1.087277
+[INFO] [1632828615.007976567] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828616.018188776] [command_execution_manager]: Execution Order Result 0. Execution time: 1.008586
+[INFO] [1632828616.035123359] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828617.093074234] [command_execution_manager]: Execution Order Result 0. Execution time: 1.063317
+[INFO] [1632828617.106791526] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828618.113113443] [command_execution_manager]: Execution Order Result 0. Execution time: 1.006698
+[INFO] [1632828618.120539235] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828619.195997694] [command_execution_manager]: Execution Order Result 0. Execution time: 1.073901
+[INFO] [1632828619.207622444] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828621.988757153] [command_execution_manager]: Execution Order Result 0. Execution time: 2.779977
+[INFO] [1632828622.008163862] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828622.996300362] [command_execution_manager]: Execution Order Result 0. Execution time: 0.986234
+[INFO] [1632828623.007974821] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828623.990529696] [command_execution_manager]: Execution Order Result 0. Execution time: 0.982656
+[INFO] [1632828624.000188696] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828625.093623613] [command_execution_manager]: Execution Order Result 0. Execution time: 1.094923
+[INFO] [1632828625.099332655] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828626.126129405] [command_execution_manager]: Execution Order Result 0. Execution time: 1.025559
+[INFO] [1632828626.141691530] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828627.189986031] [command_execution_manager]: Execution Order Result 0. Execution time: 1.053941
+[INFO] [1632828627.197468573] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828630.493795658] [command_execution_manager]: Execution Order Result 0. Execution time: 3.294713
+[INFO] [1632828630.510501658] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828631.498732158] [command_execution_manager]: Execution Order Result 0. Execution time: 0.995402
+[INFO] [1632828631.519500575] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828632.411029533] [command_execution_manager]: Execution Order Result 0. Execution time: 0.902398
+[INFO] [1632828632.416248325] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828633.597155867] [command_execution_manager]: Execution Order Result 0. Execution time: 1.179732
+[INFO] [1632828633.608275201] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828634.521913326] [command_execution_manager]: Execution Order Result 0. Execution time: 0.906775
+[INFO] [1632828634.535945951] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828635.697563868] [command_execution_manager]: Execution Order Result 0. Execution time: 1.163118
+[INFO] [1632828635.707513702] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828638.608490120] [command_execution_manager]: Execution Order Result 0. Execution time: 2.901173
+[INFO] [1632828638.615728953] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828639.557609912] [command_execution_manager]: Execution Order Result 0. Execution time: 0.940826
+[INFO] [1632828639.570115287] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828640.355498496] [command_execution_manager]: Execution Order Result 0. Execution time: 0.786096
+[INFO] [1632828640.376301079] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828641.404111788] [command_execution_manager]: Execution Order Result 0. Execution time: 1.031535
+[INFO] [1632828641.418813788] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828642.181622288] [command_execution_manager]: Execution Order Result 0. Execution time: 0.765616
+[INFO] [1632828642.186886746] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828643.264787997] [command_execution_manager]: Execution Order Result 0. Execution time: 1.076187
+[INFO] [1632828643.278393622] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828645.914077832] [command_execution_manager]: Execution Order Result 0. Execution time: 2.633740
+[INFO] [1632828645.929762582] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828646.923050665] [command_execution_manager]: Execution Order Result 0. Execution time: 0.992457
+[INFO] [1632828646.936088624] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.3916,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828647.942926624] [command_execution_manager]: Execution Order Result 0. Execution time: 1.007063
+[INFO] [1632828647.955907541] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828649.026667125] [command_execution_manager]: Execution Order Result 0. Execution time: 1.070971
+[INFO] [1632828649.048122083] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.4626,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828650.043706750] [command_execution_manager]: Execution Order Result 0. Execution time: 0.999582
+[INFO] [1632828650.065128292] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828651.075656334] [command_execution_manager]: Execution Order Result 0. Execution time: 1.017808
+[INFO] [1632828651.086328376] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828653.867554377] [command_execution_manager]: Execution Order Result 0. Execution time: 2.782102
+[INFO] [1632828653.882789460] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828654.932339003] [command_execution_manager]: Execution Order Result 0. Execution time: 1.049703
+[INFO] [1632828654.940511503] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828655.929753795] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989271
+[INFO] [1632828655.937551753] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828657.032336837] [command_execution_manager]: Execution Order Result 0. Execution time: 1.097139
+[INFO] [1632828657.044853545] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828658.025475004] [command_execution_manager]: Execution Order Result 0. Execution time: 0.980607
+[INFO] [1632828658.030553212] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828659.089980421] [command_execution_manager]: Execution Order Result 0. Execution time: 1.055671
+[INFO] [1632828659.106799463] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828662.399104089] [command_execution_manager]: Execution Order Result 0. Execution time: 3.296155
+[INFO] [1632828662.416507048] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828663.528372632] [command_execution_manager]: Execution Order Result 0. Execution time: 1.108611
+[INFO] [1632828663.538099465] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828664.433157257] [command_execution_manager]: Execution Order Result 0. Execution time: 0.895116
+[INFO] [1632828664.443132674] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828665.439834258] [command_execution_manager]: Execution Order Result 0. Execution time: 0.992816
+[INFO] [1632828665.456436091] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828666.367783466] [command_execution_manager]: Execution Order Result 0. Execution time: 0.911341
+[INFO] [1632828666.391322966] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828667.340562092] [command_execution_manager]: Execution Order Result 0. Execution time: 0.956861
+[INFO] [1632828667.354353550] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828670.274640760] [command_execution_manager]: Execution Order Result 0. Execution time: 2.914249
+[INFO] [1632828670.288621593] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828671.244874094] [command_execution_manager]: Execution Order Result 0. Execution time: 0.956882
+[INFO] [1632828671.251977052] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828672.025119927] [command_execution_manager]: Execution Order Result 0. Execution time: 0.773115
+[INFO] [1632828672.033277927] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828673.146611970] [command_execution_manager]: Execution Order Result 0. Execution time: 1.107423
+[INFO] [1632828673.157798303] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828673.932108595] [command_execution_manager]: Execution Order Result 0. Execution time: 0.774250
+[INFO] [1632828673.942338887] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828675.097350554] [command_execution_manager]: Execution Order Result 0. Execution time: 1.151634
+[INFO] [1632828675.104497304] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.2896,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828677.670215597] [command_execution_manager]: Execution Order Result 0. Execution time: 2.565620
+[INFO] [1632828677.677516138] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828678.810190847] [command_execution_manager]: Execution Order Result 0. Execution time: 1.128420
+[INFO] [1632828678.816403597] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.2186,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828679.744638973] [command_execution_manager]: Execution Order Result 0. Execution time: 0.928165
+[INFO] [1632828679.751827139] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828680.855629973] [command_execution_manager]: Execution Order Result 0. Execution time: 1.103599
+[INFO] [1632828680.871327890] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.2896,0.513399999999997,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828681.809575849] [command_execution_manager]: Execution Order Result 0. Execution time: 0.938494
+[INFO] [1632828681.817808432] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828682.904618974] [command_execution_manager]: Execution Order Result 0. Execution time: 1.086742
+[INFO] [1632828682.917496183] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828685.626687767] [command_execution_manager]: Execution Order Result 0. Execution time: 2.709178
+[INFO] [1632828685.635380434] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828686.776788809] [command_execution_manager]: Execution Order Result 0. Execution time: 1.135651
+[INFO] [1632828686.789198976] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828687.773159768] [command_execution_manager]: Execution Order Result 0. Execution time: 0.983709
+[INFO] [1632828687.782584643] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828688.964523685] [command_execution_manager]: Execution Order Result 0. Execution time: 1.183640
+[INFO] [1632828688.985209477] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828689.967713394] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989411
+[INFO] [1632828689.976951394] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828691.029709353] [command_execution_manager]: Execution Order Result 0. Execution time: 1.042521
+[INFO] [1632828691.048338103] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828694.351626688] [command_execution_manager]: Execution Order Result 0. Execution time: 3.301939
+[INFO] [1632828694.365145730] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828695.453982855] [command_execution_manager]: Execution Order Result 0. Execution time: 1.088711
+[INFO] [1632828695.466363730] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828696.366522897] [command_execution_manager]: Execution Order Result 0. Execution time: 0.900262
+[INFO] [1632828696.386105856] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828697.506751773] [command_execution_manager]: Execution Order Result 0. Execution time: 1.123029
+[INFO] [1632828697.523162773] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828698.434023565] [command_execution_manager]: Execution Order Result 0. Execution time: 0.910784
+[INFO] [1632828698.446912190] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828699.605263107] [command_execution_manager]: Execution Order Result 0. Execution time: 1.155128
+[INFO] [1632828699.613106524] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828702.516830900] [command_execution_manager]: Execution Order Result 0. Execution time: 2.904448
+[INFO] [1632828702.522857817] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828703.462573317] [command_execution_manager]: Execution Order Result 0. Execution time: 0.940045
+[INFO] [1632828703.471265234] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828704.255303318] [command_execution_manager]: Execution Order Result 0. Execution time: 0.775090
+[INFO] [1632828704.264911151] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828705.277196735] [command_execution_manager]: Execution Order Result 0. Execution time: 1.013516
+[INFO] [1632828705.283846568] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828706.068681985] [command_execution_manager]: Execution Order Result 0. Execution time: 0.784650
+[INFO] [1632828706.092210985] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828707.120688069] [command_execution_manager]: Execution Order Result 0. Execution time: 1.029653
+[INFO] [1632828707.126117694] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828710.601942279] [command_execution_manager]: Execution Order Result 0. Execution time: 3.464329
+[INFO] [1632828710.613265779] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828711.669274405] [command_execution_manager]: Execution Order Result 0. Execution time: 1.053328
+[INFO] [1632828711.686607530] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.1686,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828713.078732114] [command_execution_manager]: Execution Order Result 0. Execution time: 1.396010
+[INFO] [1632828713.089690114] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828714.100171656] [command_execution_manager]: Execution Order Result 0. Execution time: 1.011772
+[INFO] [1632828714.111455739] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828715.515534406] [command_execution_manager]: Execution Order Result 0. Execution time: 1.404027
+[INFO] [1632828715.522861698] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828716.552483740] [command_execution_manager]: Execution Order Result 0. Execution time: 1.030727
+[INFO] [1632828716.565018574] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828719.895004742] [command_execution_manager]: Execution Order Result 0. Execution time: 3.329882
+[INFO] [1632828719.913087159] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828720.944751451] [command_execution_manager]: Execution Order Result 0. Execution time: 1.030663
+[INFO] [1632828720.954336867] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828721.934262368] [command_execution_manager]: Execution Order Result 0. Execution time: 0.979903
+[INFO] [1632828721.942263076] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828723.039863410] [command_execution_manager]: Execution Order Result 0. Execution time: 1.097686
+[INFO] [1632828723.048842202] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828724.042236869] [command_execution_manager]: Execution Order Result 0. Execution time: 0.992057
+[INFO] [1632828724.063767119] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828725.142032828] [command_execution_manager]: Execution Order Result 0. Execution time: 1.081434
+[INFO] [1632828725.158588828] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828728.456500246] [command_execution_manager]: Execution Order Result 0. Execution time: 3.302961
+[INFO] [1632828728.476529121] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828729.492143205] [command_execution_manager]: Execution Order Result 0. Execution time: 1.015694
+[INFO] [1632828729.496738580] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828730.409103205] [command_execution_manager]: Execution Order Result 0. Execution time: 0.912462
+[INFO] [1632828730.413488830] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828731.541454747] [command_execution_manager]: Execution Order Result 0. Execution time: 1.128019
+[INFO] [1632828731.549733039] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828732.463018956] [command_execution_manager]: Execution Order Result 0. Execution time: 0.911210
+[INFO] [1632828732.486480456] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828733.639505957] [command_execution_manager]: Execution Order Result 0. Execution time: 1.155243
+[INFO] [1632828733.657270915] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828736.561567791] [command_execution_manager]: Execution Order Result 0. Execution time: 2.910298
+[INFO] [1632828736.568283125] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828737.749068334] [command_execution_manager]: Execution Order Result 0. Execution time: 1.180863
+[INFO] [1632828737.760344042] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828738.546455459] [command_execution_manager]: Execution Order Result 0. Execution time: 0.788220
+[INFO] [1632828738.567520459] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828739.643395418] [command_execution_manager]: Execution Order Result 0. Execution time: 1.082249
+[INFO] [1632828739.651954460] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828740.417694960] [command_execution_manager]: Execution Order Result 0. Execution time: 0.765825
+[INFO] [1632828740.423101002] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828741.602734752] [command_execution_manager]: Execution Order Result 0. Execution time: 1.179543
+[INFO] [1632828741.612401544] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828745.100536921] [command_execution_manager]: Execution Order Result 0. Execution time: 3.488262
+[INFO] [1632828745.129314462] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828746.283904796] [command_execution_manager]: Execution Order Result 0. Execution time: 1.157882
+[INFO] [1632828746.294066754] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.1686,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828747.686764297] [command_execution_manager]: Execution Order Result 0. Execution time: 1.392682
+[INFO] [1632828747.694667672] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828748.717804506] [command_execution_manager]: Execution Order Result 0. Execution time: 1.023465
+[INFO] [1632828748.731785131] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828750.144823381] [command_execution_manager]: Execution Order Result 0. Execution time: 1.411563
+[INFO] [1632828750.160820131] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828751.263125090] [command_execution_manager]: Execution Order Result 0. Execution time: 1.102747
+[INFO] [1632828751.277360965] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828754.614106592] [command_execution_manager]: Execution Order Result 0. Execution time: 3.340503
+[INFO] [1632828754.623701967] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828755.711512634] [command_execution_manager]: Execution Order Result 0. Execution time: 1.087883
+[INFO] [1632828755.718492967] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828756.712797343] [command_execution_manager]: Execution Order Result 0. Execution time: 0.994390
+[INFO] [1632828756.736976968] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828757.766912968] [command_execution_manager]: Execution Order Result 0. Execution time: 1.026054
+[INFO] [1632828757.784208010] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828758.772255177] [command_execution_manager]: Execution Order Result 0. Execution time: 0.991552
+[INFO] [1632828758.786594677] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828759.809140511] [command_execution_manager]: Execution Order Result 0. Execution time: 1.029383
+[INFO] [1632828759.821065803] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828763.106178637] [command_execution_manager]: Execution Order Result 0. Execution time: 3.285220
+[INFO] [1632828763.131427762] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828764.153372221] [command_execution_manager]: Execution Order Result 0. Execution time: 1.032705
+[INFO] [1632828764.168195430] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828765.086393472] [command_execution_manager]: Execution Order Result 0. Execution time: 0.918313
+[INFO] [1632828765.092118097] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828766.208141931] [command_execution_manager]: Execution Order Result 0. Execution time: 1.114254
+[INFO] [1632828766.227518347] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828767.133272056] [command_execution_manager]: Execution Order Result 0. Execution time: 0.909067
+[INFO] [1632828767.148102806] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828768.255302723] [command_execution_manager]: Execution Order Result 0. Execution time: 1.104558
+[INFO] [1632828768.264507973] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828771.167760975] [command_execution_manager]: Execution Order Result 0. Execution time: 2.903394
+[INFO] [1632828771.187111641] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828772.310282267] [command_execution_manager]: Execution Order Result 0. Execution time: 1.135193
+[INFO] [1632828772.320104600] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828773.087151392] [command_execution_manager]: Execution Order Result 0. Execution time: 0.767079
+[INFO] [1632828773.092817976] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828774.165504476] [command_execution_manager]: Execution Order Result 0. Execution time: 1.071194
+[INFO] [1632828774.180141434] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828774.961632101] [command_execution_manager]: Execution Order Result 0. Execution time: 0.780229
+[INFO] [1632828774.979075060] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828776.021146102] [command_execution_manager]: Execution Order Result 0. Execution time: 1.047578
+[INFO] [1632828776.032903977] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828779.505519604] [command_execution_manager]: Execution Order Result 0. Execution time: 3.470495
+[INFO] [1632828779.526836979] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828780.510834021] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989797
+[INFO] [1632828780.516340021] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.1686,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828781.925061938] [command_execution_manager]: Execution Order Result 0. Execution time: 1.408766
+[INFO] [1632828781.937388188] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828782.955032564] [command_execution_manager]: Execution Order Result 0. Execution time: 1.017837
+[INFO] [1632828782.961060647] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828784.369000898] [command_execution_manager]: Execution Order Result 0. Execution time: 1.408017
+[INFO] [1632828784.380041939] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828785.440562648] [command_execution_manager]: Execution Order Result 0. Execution time: 1.059320
+[INFO] [1632828785.455060273] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828788.780064858] [command_execution_manager]: Execution Order Result 0. Execution time: 3.323413
+[INFO] [1632828788.791049775] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828789.798626358] [command_execution_manager]: Execution Order Result 0. Execution time: 1.007577
+[INFO] [1632828789.820252984] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828790.810095609] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989998
+[INFO] [1632828790.818367484] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828791.937604943] [command_execution_manager]: Execution Order Result 0. Execution time: 1.119415
+[INFO] [1632828791.952311443] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828792.932554235] [command_execution_manager]: Execution Order Result 0. Execution time: 0.980307
+[INFO] [1632828792.948687277] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828794.042633777] [command_execution_manager]: Execution Order Result 0. Execution time: 1.095742
+[INFO] [1632828794.048023027] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828797.351522237] [command_execution_manager]: Execution Order Result 0. Execution time: 3.301903
+[INFO] [1632828797.374293445] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828798.283502279] [command_execution_manager]: Execution Order Result 0. Execution time: 0.910624
+[INFO] [1632828798.296281321] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828799.200279321] [command_execution_manager]: Execution Order Result 0. Execution time: 0.902274
+[INFO] [1632828799.235748738] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828800.241703238] [command_execution_manager]: Execution Order Result 0. Execution time: 1.022827
+[INFO] [1632828800.251966072] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828801.152770572] [command_execution_manager]: Execution Order Result 0. Execution time: 0.900947
+[INFO] [1632828801.159760822] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828802.196288906] [command_execution_manager]: Execution Order Result 0. Execution time: 1.033732
+[INFO] [1632828802.206459406] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828805.130679741] [command_execution_manager]: Execution Order Result 0. Execution time: 2.919070
+[INFO] [1632828805.148337616] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828806.291916783] [command_execution_manager]: Execution Order Result 0. Execution time: 1.141795
+[INFO] [1632828806.306967533] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828807.080332575] [command_execution_manager]: Execution Order Result 0. Execution time: 0.775442
+[INFO] [1632828807.103831742] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828808.146668367] [command_execution_manager]: Execution Order Result 0. Execution time: 1.045230
+[INFO] [1632828808.167571409] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828808.944709534] [command_execution_manager]: Execution Order Result 0. Execution time: 0.777351
+[INFO] [1632828808.952082618] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828810.001929368] [command_execution_manager]: Execution Order Result 0. Execution time: 1.048509
+[INFO] [1632828810.009636285] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828813.475824870] [command_execution_manager]: Execution Order Result 0. Execution time: 3.461691
+[INFO] [1632828813.488372870] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828814.493613954] [command_execution_manager]: Execution Order Result 0. Execution time: 1.005330
+[INFO] [1632828814.502063329] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.1686,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828815.893986371] [command_execution_manager]: Execution Order Result 0. Execution time: 1.393328
+[INFO] [1632828815.900235288] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828816.984324913] [command_execution_manager]: Execution Order Result 0. Execution time: 1.084090
+[INFO] [1632828816.992613746] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828818.397832247] [command_execution_manager]: Execution Order Result 0. Execution time: 1.405622
+[INFO] [1632828818.407652539] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828819.480921664] [command_execution_manager]: Execution Order Result 0. Execution time: 1.072058
+[INFO] [1632828819.496699123] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828822.815098041] [command_execution_manager]: Execution Order Result 0. Execution time: 3.318591
+[INFO] [1632828822.824856833] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828823.916752333] [command_execution_manager]: Execution Order Result 0. Execution time: 1.091945
+[INFO] [1632828823.935094000] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828824.926640417] [command_execution_manager]: Execution Order Result 0. Execution time: 0.989299
+[INFO] [1632828824.949499834] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828825.968149501] [command_execution_manager]: Execution Order Result 0. Execution time: 1.030580
+[INFO] [1632828825.977280626] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828826.958969751] [command_execution_manager]: Execution Order Result 0. Execution time: 0.981850
+[INFO] [1632828826.981699918] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828828.026021293] [command_execution_manager]: Execution Order Result 0. Execution time: 1.053807
+[INFO] [1632828828.039730877] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828831.332074878] [command_execution_manager]: Execution Order Result 0. Execution time: 3.294822
+[INFO] [1632828831.340119878] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828832.319495337] [command_execution_manager]: Execution Order Result 0. Execution time: 0.977641
+[INFO] [1632828832.330271087] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828833.218142463] [command_execution_manager]: Execution Order Result 0. Execution time: 0.891693
+[INFO] [1632828833.223379963] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828834.164746880] [command_execution_manager]: Execution Order Result 0. Execution time: 0.941308
+[INFO] [1632828834.177605130] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828835.065931380] [command_execution_manager]: Execution Order Result 0. Execution time: 0.894056
+[INFO] [1632828835.071335713] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828836.023280464] [command_execution_manager]: Execution Order Result 0. Execution time: 0.951862
+[INFO] [1632828836.031724381] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828838.948438507] [command_execution_manager]: Execution Order Result 0. Execution time: 2.915617
+[INFO] [1632828838.961690715] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828839.877945966] [command_execution_manager]: Execution Order Result 0. Execution time: 0.918912
+[INFO] [1632828839.889909091] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828840.669158424] [command_execution_manager]: Execution Order Result 0. Execution time: 0.778083
+[INFO] [1632828840.681978508] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828841.836419842] [command_execution_manager]: Execution Order Result 0. Execution time: 1.154576
+[INFO] [1632828841.846874175] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828842.615718675] [command_execution_manager]: Execution Order Result 0. Execution time: 0.767714
+[INFO] [1632828842.637095675] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828843.736044551] [command_execution_manager]: Execution Order Result 0. Execution time: 1.107277
+[INFO] [1632828843.741815051] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828847.227534761] [command_execution_manager]: Execution Order Result 0. Execution time: 3.484598
+[INFO] [1632828847.238417761] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828848.186722761] [command_execution_manager]: Execution Order Result 0. Execution time: 0.948964
+[INFO] [1632828848.193584595] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.1686,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828849.611711554] [command_execution_manager]: Execution Order Result 0. Execution time: 1.410289
+[INFO] [1632828849.623596762] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828850.628559554] [command_execution_manager]: Execution Order Result 0. Execution time: 1.010107
+[INFO] [1632828850.635525013] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828852.055440430] [command_execution_manager]: Execution Order Result 0. Execution time: 1.419962
+[INFO] [1632828852.066417180] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828853.069337764] [command_execution_manager]: Execution Order Result 0. Execution time: 1.001185
+[INFO] [1632828853.087115514] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828856.407656932] [command_execution_manager]: Execution Order Result 0. Execution time: 3.328649
+[INFO] [1632828856.414916349] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828857.553637724] [command_execution_manager]: Execution Order Result 0. Execution time: 1.140245
+[INFO] [1632828857.563749849] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828858.547831183] [command_execution_manager]: Execution Order Result 0. Execution time: 0.982204
+[INFO] [1632828858.560193600] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828859.659619600] [command_execution_manager]: Execution Order Result 0. Execution time: 1.097637
+[INFO] [1632828859.676921725] [command_execution_manager]: Sending urscript Order movej(p[0.4052,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828860.652564976] [command_execution_manager]: Execution Order Result 0. Execution time: 0.978137
+[INFO] [1632828860.662295684] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828861.759505643] [command_execution_manager]: Execution Order Result 0. Execution time: 1.097325
+[INFO] [1632828861.767006559] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828865.068200228] [command_execution_manager]: Execution Order Result 0. Execution time: 3.301006
+[INFO] [1632828865.078465519] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828866.009981061] [command_execution_manager]: Execution Order Result 0. Execution time: 0.934053
+[INFO] [1632828866.021671812] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.194400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828866.937800145] [command_execution_manager]: Execution Order Result 0. Execution time: 0.916142
+[INFO] [1632828866.947878479] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828867.909437562] [command_execution_manager]: Execution Order Result 0. Execution time: 0.961716
+[INFO] [1632828867.921954562] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.1734,0.265400000000002,0,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828868.825133188] [command_execution_manager]: Execution Order Result 0. Execution time: 0.903256
+[INFO] [1632828868.853215813] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828869.955501063] [command_execution_manager]: Execution Order Result 0. Execution time: 1.116048
+[INFO] [1632828869.964098855] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828872.892387981] [command_execution_manager]: Execution Order Result 0. Execution time: 2.925285
+[INFO] [1632828872.908937815] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828873.865169274] [command_execution_manager]: Execution Order Result 0. Execution time: 0.957115
+[INFO] [1632828873.876765065] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.6394,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828874.644002607] [command_execution_manager]: Execution Order Result 0. Execution time: 0.764053
+[INFO] [1632828874.667510566] [command_execution_manager]: Sending gripper Order m,0,100,100
+[INFO] [1632828875.719777816] [command_execution_manager]: Execution Order Result 0. Execution time: 1.050795
+[INFO] [1632828875.727109899] [command_execution_manager]: Sending urscript Order movej(p[0.9602,-0.5684,0.5134,-1.5707963267949,0,0], a=1.0, v=1, t=0, r=0)
+
+[INFO] [1632828876.505817192] [command_execution_manager]: Execution Order Result 0. Execution time: 0.778832
+[INFO] [1632828876.510819400] [command_execution_manager]: Sending gripper Order m,255,100,100
+[INFO] [1632828877.573619859] [command_execution_manager]: Execution Order Result 0. Execution time: 1.062997
+[INFO] [1632828877.581419817] [command_execution_manager]: Sending urscript Order movej(p[0.4052,0.0976000000000002,0.513399999999998,0,-1.5707963267949,1.5707963267949], a=1.0, v=1, t=0, r=0)
+
+Traceback (most recent call last):
+  File "/home/odroid/workspaces/ur_ws/install/robocom/lib/robocom/commandexecutionmanager", line 11, in <module>
+    load_entry_point('robocom==0.0.0', 'console_scripts', 'commandexecutionmanager')()
+  File "/home/odroid/workspaces/ur_ws/install/robocom/lib/python3.8/site-packages/robocom/command_execution_manager_2.py", line 107, in main
+    time.sleep(1)
+  File "/home/odroid/workspaces/ur_ws/install/robocom/lib/python3.8/site-packages/robocom/command_execution_manager_2.py", line 65, in send_order
+    rclpy.spin_until_future_complete(self,self.future_order)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/__init__.py", line 217, in spin_until_future_complete
+    executor.spin_until_future_complete(future, timeout_sec)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 296, in spin_until_future_complete
+    self.spin_once_until_future_complete(future, timeout_sec)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 714, in spin_once_until_future_complete
+    self.spin_once(timeout_sec)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 703, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 689, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 586, in _wait_for_ready_callbacks
+    _rclpy.rclpy_wait(wait_set, timeout_nsec)
+KeyboardInterrupt

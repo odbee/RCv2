@@ -1,0 +1,15 @@
+[INFO] [1632828890.952243823] [command_list_manager]: [PULLBACK] Command List Empty. Add more commands and try again
+Traceback (most recent call last):
+  File "/home/odroid/workspaces/ur_ws/install/robocom/lib/robocom/commandlistmanager", line 11, in <module>
+    load_entry_point('robocom==0.0.0', 'console_scripts', 'commandlistmanager')()
+  File "/home/odroid/workspaces/ur_ws/install/robocom/lib/python3.8/site-packages/robocom/command_list_manager.py", line 80, in main
+    rclpy.spin(cmd_manager)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/__init__.py", line 191, in spin
+    executor.spin_once()
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 703, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 689, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rclpy/executors.py", line 586, in _wait_for_ready_callbacks
+    _rclpy.rclpy_wait(wait_set, timeout_nsec)
+KeyboardInterrupt
